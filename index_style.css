@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(243, 248, 248);
+    font-family: my;
+}
+
+img {
+    height: auto;
+    width: 75%;
+}
+
+.recipe {
+    font-size: 400%;
+    display: inline-block;
+    width: 30%;
+    margin: 5px auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 600%;
+    margin: auto auto 80px auto;
+}
+
+.college{
+    width: 100%;
+    margin: 80px auto;
+    padding: 10px 5%;
+}
+
+.college.two{
+    padding: 10px 20%;
+}
